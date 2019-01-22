@@ -2,4 +2,20 @@ How is the web different than the internet?
 
 A networking infrastruction and also is an enormous of network is known as the internet. The internet provides access and communication connecting millions of computers globally together. Forming a network so any computer can exchange or even share information with any other computer as long as the computers are connected to the internet. 
 
-a way of accessing information on the internet is simply known as the World Wide Web. A sharing information model that is built at the tip of the internet. The web utilizes HTTP protocol, which is one of the many languages spoken extending above the internet to transmit data. The web also uses browsers such as Safari, Firefox, Chrome, and Internet Explorer. these browsers access webpages and web documents that are linked to one another via hyperlinks. Web documents contains text, sounds, video, and ever graphis.  
+a way of accessing information on the internet is simply known as the World Wide Web. A sharing information model that is built at the tip of the internet. The web utilizes HTTP protocol, which is one of the many languages spoken extending above the internet to transmit data. The web also uses browsers such as Safari, Firefox, Chrome, and Internet Explorer. these browsers access webpages and web documents that are linked to one another via hyperlinks. Web documents contains text, sounds, video, and even graphis.  
+
+Briefly describe how the internet works. ("Magic.")
+
+The main purpose of the Internet is to help share or exchange information. A globally assembly of computer networks that are joined together by router devices. Fro data transmissions known as Transmission control protocol or TCP and Internet protocols also known as IP uses a commons set for data transmission.
+
+What is a directory, and what is its relationship to files?
+
+A file system catalogging structures that carries other directories and sources to other computer files is known as directory. Directories are known as drawers or folders. Files are arranged by storing associated files in the same directory. A subdirectory is a directory inside of another directory. the expression of parent and child is frequently used to help describe this relationship. 
+
+Why is using a VCS beneficial?
+
+Here is why I think VCS is befificial. There have been many times where I made a change to code. I then realised I had made a  mistake and basically reverted it back. Also I helped someone submit a change to their code. this helps review the history of some codes. Another thing I wanted to prove was a particular change and even fixed a piece of code in the past. this is just some of the ideas I believe VCS is so useful.
+
+State at least one thing you found interesting this topic, or that you didn't know before.
+
+There are many things that I found interesting in this assignment. With me being a truly beginner and not knowing anything about github. Just getting familiar with this I found quite interesting. 
